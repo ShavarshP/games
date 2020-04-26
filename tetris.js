@@ -419,7 +419,7 @@ function blockTypeMovie(e) {
         console.log('maladec'+intnger);
       }
     }
-    if (i=7) {
+    if (intnger==7) {
       pasvordKey=1;
       alert("you have included unfinished properties!!");
     }
